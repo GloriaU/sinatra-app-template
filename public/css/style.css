@@ -1,0 +1,144 @@
+a, 
+.page-scroll,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus,
+.navbar-custom .navbar-brand {
+    color:#44a9bb;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+  border-radius: 0;
+  color: white;
+  background-color: #44a9bb;
+}
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.btn-xl {
+  color: white;
+  background-color: #44a9bb;
+  border:1px solid #44a9bb;
+}
+
+.btn-xl:hover,
+.btn-xl:focus {
+    background-color: #44da99;
+    border:1px solid #44da99;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+    color: #44da99;
+}
+
+.fa-stack {
+    -ms-transform: scale(1.5,1.5); /* IE 9 */
+    -webkit-transform: scale(1.5,1.5); /* Chrome, Safari, Opera */
+    transform: scale(1.5,1.5);
+}
+
+.fa-circle {
+    color:#44a9bb;
+}
+
+.fa-stack:hover .fa-circle {
+    color:#44da99;
+}
+
+::-moz-selection {
+  text-shadow: none;
+  background:#44da99;
+}
+::selection {
+  text-shadow: none;
+  background: #44da99;
+}
+
+body {
+  webkit-tap-highlight-color: #44da99;
+}
+
+.service-heading {
+    margin:30px 0px 15px 0px;
+}
+
+header {
+  background-image: url('../img/map-image.png');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+  background-color:#222;
+}
+
+
+  background-color: #222222;input[type=submit] {
+    padding:5px 15px;
+    height:30px;
+    background:#d8d8d8; 
+    border:0 none;
+    border:1px solid #d8d8d8;
+    cursor:pointer;
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+form {
+    border:0;
+    width:500px;
+    height:40px;
+    font-size:14px;
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align:left;
+    margin:40px auto;
+}
+
+select {
+    border:0;
+    padding:5px 15px;
+    background:transparent;
+    height:30px;
+    border:1px solid #d8d8d8;
+    width:350px;
+    -webkit-appearance: none;
+}
+
+.form {
+    text-align:center;
+}
+
+.res {
+    color:rgba(255,255,255, .8);
+    -webkit-text-stroke-width: 4px;
+   -webkit-text-stroke-color: #222;
+}
+
+.res2 {
+    font-family:"Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:26px;
+    font-weight:700;
+    color:rgba(255,255,255, .8);
+    -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: #222;
+}
+
+.results {
+    margin:40px 0px;
+}
+
+.result {
+    box-sizing:border-box;
+    padding:10px 20px;
+    border:4px solid #d8d8d8;
+}
+
+.enviro_header {
+    background-image:url('https://joyfulgaye.files.wordpress.com/2011/01/wwf_lungs.jpg');
+    height: 1000px;
+}
+
+.social_header {
+    background
+}
