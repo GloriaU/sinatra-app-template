@@ -75,7 +75,7 @@ header {
 }
 
 
-  background-color: #222222;input[type=submit] {
+.submit {
     padding:5px 15px;
     height:30px;
     background:#d8d8d8; 
@@ -136,9 +136,16 @@ select {
 
 .enviro_header {
     background-image:url('https://joyfulgaye.files.wordpress.com/2011/01/wwf_lungs.jpg');
-    height: 1000px;
 }
 
-.social_header {
-    background
+.soci_header {
+    background-image:url('https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/11/16/National-Politics/Images/306937473_0-8.jpg');
+}
+
+.remind {
+  width: 80px !important;
+  height: 80px !important;
+  position: absolute;
+  z-index: 100;
+  border-radius: 100%;
 }

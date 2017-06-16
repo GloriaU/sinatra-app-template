@@ -3,10 +3,10 @@ def organizations(location)
         central_america = {
             :image => "https://lizardpoint.com/geography/images/maps/new-central-am-highlighted.gif",
             :title => "Discover in Central America",
-            :org1 => ["World Rainforest Movement","The World Rainforest Movement is an international organization for indigenous people to help fight against others destorying their forest and their lands.","http://wrm.org.uy/"],
+            :org1 => ["World Rainforest Movement","The World Rainforest Movement is an international organization for indigenous people to help fight against others destorying their forests and lands.","http://wrm.org.uy/"],
             :org2 => ["National Solar Energy Association","The Mexican National Solar Energy Association is a association that helps create and devlop renewable resources all over in Mexico.","http://www.anes.org/cms/index.php"],
-            :org3 => ["Panthela","Panthera is one of the only organizationsin the world that is dedicated to helping over 40 wild cat species and also help maintain their landscapes to preven their landscape.", "https://www.panthera.org/" ],
-            :org4 => ["Public Health in the Caribbean", "Will get to work with health care professionals in the Caaribbean to help improve public health care.","https://rusticpathways.com/programs/public-health-in-the-caribbean/"]
+            :org3 => ["Panthela","Panthera is one of the only organizations in the world that is dedicated to helping over 40 wild cat species and also help maintain their landscapes and prevent their landscape from being destroyed.", "https://www.panthera.org/" ],
+            :org4 => ["Public Health in the Caribbean", "Will get to work with health care professionals in the Caribbean to help improve public health care.","https://rusticpathways.com/programs/public-health-in-the-caribbean/"]
             
         }
         
@@ -15,7 +15,7 @@ def organizations(location)
       south_america = {
             :image => "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/South_America.svg/2000px-South_America.svg.png",
             :title => "Discover in South America",
-            :org1 => ["Farn","Promotes sustainable ways of living throughdifferent areas such as poltics and others..","http://farn.org.ar/"],
+            :org1 => ["Farn","Promotes sustainable ways of living through different areas such as poltics and others.","http://farn.org.ar/"],
             :org2 => ["Surui Forest Carbon Project","Helps stop and prevent anymore deforestation in the wolrd.","http://www.rainforest-alliance.org/business/climate/validation-verification/projects/surui-project"],
             :org3 => ["Organization for conservation of Penguins","Helps protect and care for penguins. ", "http://www.opcc.cl/" ],
             :org4 => ["World Rainforest Movement","They protect and defend the biggest forests in the world by maintiaang the quality of treatment they receive.","http://wrm.org.uy/"]
@@ -90,8 +90,8 @@ def organizations(location)
        asia = {
            :image => "http://www.dec-group.net/fileadmin/kontakt/weltweit/asia.png",
            :title => "Discover Asia",
-           :org1 => ["Borneo Orangutan Survival","A conservation dedicated to protecting endagered oranguntans  in Indonesia","http://www.orangutan.or.id/"],
-           :org2 => ["The Climate Group","A non-profit organization that helps technologies and governments use clean tecnologies in order to reduce greenhouse gases or any sort like that.","https://www.theclimategroup.org/"],
+           :org1 => ["Borneo Orangutan Survival","A conservation dedicated to protecting endagered oranguntans in Indonesia","http://www.orangutan.or.id/"],
+           :org2 => ["The Climate Group","A non-profit organization that helps technologies and governments use clean technologies in order to reduce greenhouse gases or any sort like that.","https://www.theclimategroup.org/"],
            :org3 => ["Clean Air Network","Foucses on the issue of air pollution in Hong Kong and wants more pople to become educated in it to help stop this issue.","http://www.hongkongcan.org/hk/"],
            :org4 => ["Wild Aid","Brings awareness to people, for them to stop buying any merchandise that is from sharks and also stop killing thwm.","http://www.wildaid.org/sharks"]
            
@@ -101,9 +101,9 @@ def organizations(location)
        international = {
             :image => "https://recruitlook.com/wp-content/uploads/2015/12/international.jpg",
             :title => "Discover international organizations",
-            :org1 => ["Medic Moible","Uses technology to help connect to others that don't have acces to it and help with ther medical needs.","https://medicmobile.org/"],
+            :org1 => ["Medic Moible","Uses technology to help connect to others that don't have access to it and help with ther medical needs.","https://medicmobile.org/"],
             :org2 => ["The Mountain Institute"," An international non-profit organization that helps conserve mountain communities and mountain ecosystems. ","http://mountain.org"],
-            :org3 => ["Project AWARE","Uses local divers to help and conserve the oceans ecosystem and their wild life foun in it.", "http://www.projectaware.org/" ],
+            :org3 => ["Project AWARE","Uses local divers to help and conserve the oceans ecosystem and the wild life found in it.", "http://www.projectaware.org/" ],
             :org4 => ["Earthwatch Institute"," This organizations main goal is to help get more people involve in the scientific and enviromental area so they can be more aware of was they can help the ecosytem.","http://earthwatch.org/"]
        }
         
@@ -119,10 +119,10 @@ def organizations2(topic)
             :image => "https://img0.etsystatic.com/011/1/8133410/il_fullxfull.461563764_rifm.jpg",
             :title => "Women's Rights",
             :main_desc => "Women rights focuses on the ideology of women having equal rights as men.This includes property rights, the women's suffrage, women having the right to vote, reproductive rights, and the right to work for equal pay.",
-            :org1 => ["Girls Not Brides", "A global organisation committed to ending child marriage and enabling girls to fulfil their potential","http://www.girlsnotbrides.org"],
-            :org2 => ["La Niña Andina: The Andes Women’s Initiative", "Dive deep into the issues surrounding access to education and opportunities for women in Peru","https://rusticpathways.com/programs/la-nina-andina-the-andes-womens-initiative/"],
-            :org3 => ["Planned Parenthood", "An organiation that helps women when it comes to their reproductive needs.", "https://www.plannedparenthood.org/"],
-            :org4 => ["Women for Women", "Women who are refugees are helped i order so they can support their families.", "http://www.womenforwomen.org/"],
+            :org1 => ["Girls Not Brides", "A global organization committed to ending child marriage and enabling girls to fulfill their potential.","http://www.girlsnotbrides.org"],
+            :org2 => ["La Niña Andina: The Andes Women’s Initiative", "Dive deep into the issues surrounding access to education and opportunities for women in Peru.","https://rusticpathways.com/programs/la-nina-andina-the-andes-womens-initiative/"],
+            :org3 => ["Planned Parenthood", "An organization that helps women when it comes to their reproductive needs.", "https://www.plannedparenthood.org/"],
+            :org4 => ["Women for Women", "This organization supports refugee women and helps them be able to raise their families.", "http://www.womenforwomen.org/"],
             :org5 => ["Now","Your continued support as a NOW member is critical to the feminist fight for equality","http://now.org/" ]
         }
         
@@ -132,14 +132,14 @@ def organizations2(topic)
             :title => "Black Lives Matter",
             :main_desc => "The Black Lives Matter Movement is a peaceful movement where people demand equal rigths and opportunities for black people.",
             :org1 => ["The Give Black Foundation", "A charity that donates to black communities in need.", "https://www.giveblackfoundation.org/?utm_source=AdWords&utm_campaign=General&utm_medium=CPC"],
-            :org2 => ["Aspen Ideas", "An organization that deeper explain what the Black Lives Matter Movement is and gives", "https://www.aspenideas.org/session/civil-rights-movement-21st-century-black-lives-matter?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRt2FGL8kqoeW8IXvLEUa36Mxo5I89laNkUEMfGUo-zqRoChhTw_wcB"],
+            :org2 => ["Aspen Ideas", "An organization that deeper explains what the Black Lives Matter Movement is and gives", "https://www.aspenideas.org/session/civil-rights-movement-21st-century-black-lives-matter?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRt2FGL8kqoeW8IXvLEUa36Mxo5I89laNkUEMfGUo-zqRoChhTw_wcB"],
             :org3 => ["Black Lives Matter", "An Organization that deeper expalins what the Black Lives Matter Movement is and gives opportunities if one will like to be involve.", "http://blacklivesmatter.com/about/"],
             :org4 => ["The Movemnet for Black Lives", "A vision policy demands for black power, freedom, and justice", "https://policy.m4bl.org/"]
         }
         
     elsif topic == "education"
         education = {
-            :image => "https://www.agileconnection.com/sites/default/files/article/2017/education-2.jpg",
+            :image => "http://www.alamy.com/blog/wp-content/uploads/2015/02/B6JPY7-1024x680.jpg",
             :title => "Education",
             :main_desc => "Every student having an access to a proper education no matter what their status, race, income, ect.. is.",
             :org1 => ["Modern Mindfulness", "This organizations trengthens foundational learning skills resulting in focused and relaxed students.", "https://www.modmind.org/?gclid=cjwkeajw4ijkbrdr6p752ccum3ksjac-eqrtil6awoq72tga4dhzlnoutjjic_5dmqyqt0hceakjoxocv9rw_wcb"],
@@ -150,7 +150,7 @@ def organizations2(topic)
         
     elsif topic == "workers"
         workers = {
-            :image => "https://aycw.files.wordpress.com/2014/08/article-6683-hero.jpg",
+            :image => "http://pathwaystowork.eu/en/wp-content/uploads/2010/09/workers.png",
             :title => "Worker Rights",
             :main_desc => "Workers fight for better wages, resonable hourrs, and safer working conditons.",
             :org1 => ["United Students Against Sweatshops","An organiation where students advocate for worker rights", "http://usas.org/"],
@@ -171,7 +171,7 @@ def organizations2(topic)
         
     elsif topic == "disabilities"
         disabilities = {
-            :image => "http://www.easterseals.com/southerncal/shared-components/image-library/disability-rights-are-civil.png",
+            :image => "https://www-tc.pbs.org/independentlens/wp/wp-content/uploads/2011/10/lives-worth-living-sig.jpg",
             :title => "Disabilities Rights", 
             :main_desc => "People with disabilities should be helped by the system to obtain the same rights and opportunities as anyone else.",
             :org1 => ["Autistic Self Advocacy Network", "Advocacy for people with autism.", "http://autisticadvocacy.org/"],
@@ -182,7 +182,7 @@ def organizations2(topic)
     
     elsif topic == "latino"
         latino = { 
-            :image => "https://s-media-cache-ak0.pinimg.com/originals/fe/e9/1f/fee91f2bae5debbf4c0a724aeff4ef2e.jpg",
+            :image => "http://az616578.vo.msecnd.net/files/2016/05/27/6359990735978800451586896422_flags-hispanis-country.jpg",
             :title => "Hispanic/Latino Rights",
             :main_desc => "Advocacy for the Hispanic and Latino community towards discrimination, segregation, and obtaning an education.",
             :org1 => ["Helps Latinos/Hispanics.", "League of United Latin American Citizens", "http://lulac.org/about/"],
@@ -193,7 +193,7 @@ def organizations2(topic)
     
     elsif topic == "lgbt"
         lgbt = {
-            :image => "http://www.eastcoastundergroundrailroadbluessociety.com/publishImages/LBGTReachOut~~element14.jpg",
+            :image => "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gay_flag.svg/190px-Gay_flag.svg.png",
             :title => "LBGT rights",
             :main_desc => "The Lesbian, gay, bisexual, and transgender (LBGT) movement advocates for the full aceptance of people who identify as LGBT.",
             :org1 => ["ILGA","This organization helps campaing and imform about what the LGBT community is trying to achive", "http://ilga.org/" ],
@@ -204,7 +204,7 @@ def organizations2(topic)
             
     elsif topic == "human_trafficking"
         human_trafficking = {
-            :image => "https://www.ice.gov/sites/default/files/images/human-trafficking.png",
+            :image => "http://www.maeeshat.in/wp-content/uploads/2016/08/human-trafficking-arrest-crime-terror.jpg",
             :title => "Human Trafficking",
             :main_desc => "Human trafficking is global and a form of illegal slavery  where people are transported from one country to another and forced to do a certain labor or commercial sexual exploitations.",
             :org1 => ["Tiny Hands", "The organization helps children who have experince this situation to find a home.", "https://www.tinyhands.org/"],
@@ -215,7 +215,7 @@ def organizations2(topic)
         
     elsif topic == "domestic"
         domestic = {
-            :image => "https://www.pflag.org/",
+            :image => "http://www.bkreader.com/wp-content/uploads/2015/10/Domestic_Abuse_t750x550-600x400.jpg",
             :title => "Domestic Violence",
             :main_desc => "Domestic violence happens in a relationship (does not necessarily have to be in a daiting or marriage situation) where a person is hurt physically, emotionally, or sexually.",
             :org1 => ["Joyful Heart Foundation", "This organization helps women acknowledge if they are in an abuse relationship in order move on", "http://www.joyfulheartfoundation.org/learn/domestic-violence/about-issue/know-signs?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRtZa6uSWamm1bbom8-MVooT_bkD0kOToxFs7yBl3iUtBoCsUnw_wcB"],
@@ -226,7 +226,7 @@ def organizations2(topic)
             
     elsif topic == "refugees_and_immigrants"
         refugees_and_immigrants = {
-            :image => "https://s-media-cache-ak0.pinimg.com/originals/8e/88/10/8e8810001214b6502fc3cdf1069cd9e5.jpg",
+            :image => "https://counterjihad.com/wp-content/uploads/2016/12/Syrian-refugees-in-Germany-AP-PhotoRonald-Zak-640x480.jpg",
             :title => "Refugees and Immigrants",
             :main_desc => "A refugee or immigrant is forced to leave their country (usually) because of war, persecution, or natural disasters. They should have the chance to live in a foreing contry where it is safe.",
             :org1 => ["Mariposas sin Fronteras","This organization helps immigrants obtain a better future.", "https://mariposassinfronteras.org/"],

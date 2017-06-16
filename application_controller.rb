@@ -31,7 +31,7 @@ post '/getenviro' do
   @org3desc = organizations(org)[:org3][1]
   @org3link = organizations(org)[:org3][2]
   @org4 = organizations(org)[:org4][0]
-  @org4desc = organizations(org)[:org3][1]
+  @org4desc = organizations(org)[:org4][1]
   @org4link = organizations(org)[:org4][2]
   
   erb :results
