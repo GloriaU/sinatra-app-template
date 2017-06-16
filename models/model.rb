@@ -16,9 +16,9 @@ def organizations(location)
             :image => "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/South_America.svg/2000px-South_America.svg.png",
             :title => "Discover in South America",
             :org1 => ["Farn","Promotes sustainable ways of living through different areas such as poltics and others.","http://farn.org.ar/"],
-            :org2 => ["Surui Forest Carbon Project","Helps stop and prevent anymore deforestation in the wolrd.","http://www.rainforest-alliance.org/business/climate/validation-verification/projects/surui-project"],
+            :org2 => ["Surui Forest Carbon Project","Helps stop and prevent anymore deforestation in the world.","http://www.rainforest-alliance.org/business/climate/validation-verification/projects/surui-project"],
             :org3 => ["Organization for conservation of Penguins","Helps protect and care for penguins. ", "http://www.opcc.cl/" ],
-            :org4 => ["World Rainforest Movement","They protect and defend the biggest forests in the world by maintiaang the quality of treatment they receive.","http://wrm.org.uy/"]
+            :org4 => ["World Rainforest Movement","They protect and defend the biggest forests in the world by maintaining the quality of treatment they receive.","http://wrm.org.uy/"]
         }
         
     elsif location == "north_america"
@@ -27,8 +27,8 @@ def organizations(location)
           
           :image =>"https://upload.wikimedia.org/wikipedia/commons/1/1e/North_america_terrain_2003_map.jpg",
           :title => "Discover North America",
-          :org1 => ["Green Action Centre","It works to promote greener living through environmental education for households, workplaces, schools, and communities. cies for Manitoba communities. Its primary areas of activity include green commuting, composting and waste, sustainable living and resource conservation.","http://greenactioncentre.ca/"],
-          :org2 => ["Shark Savers","Raises awreness on how to protect and save sharks and manta rays and how to maintain a clean enviroment for them.","http://www.sharksavers.org/en/home/"],
+          :org1 => ["Green Action Centre","It works to promote greener living through environmental education for households, workplaces, schools, and communities for Manitoba communities.","http://greenactioncentre.ca/"],
+          :org2 => ["Shark Savers","Raises awareness on how to protect and save sharks and manta rays and how to maintaining a clean enviroment for them.","http://www.sharksavers.org/en/home/"],
           :org3 => ["Defenders of Wildlife","Helps protect native plants and animals.","http://www.defenders.org/"],
           :org4 => ["Sea Sheperd Conservation Society","Helps conserve, protect ocean enviroments. ","http://www.seashepherd.org/"],
           
@@ -38,8 +38,8 @@ def organizations(location)
         africa = {
             :image => "http://www.worldatlas.com/webimage/countrys/africasatview.jpg",
             :title => "Discover Africa",
-            :org1 => ["Gorilla Doctors","The Gorilla Doctors helps save gorillas and have veterinians help them medically. ","http://www.gorilladoctors.org/"],
-            :org2 => ["Inkulu Free Heid","Aims to bring more young people get involved and use their voice in South Africa.","http://www.inkulufreeheid.net/"],
+            :org1 => ["Gorilla Doctors","The Gorilla Doctors helps save gorillas and have veterinarians help them medically. ","http://www.gorilladoctors.org/"],
+            :org2 => ["Inkulu Free Heid","Aims to bring more young people together so that they can learn to use their voice in South Africa.","http://www.inkulufreeheid.net/"],
             :org3 =>["Trees for the Future","Promotes for more communities in the world to start planting trees to combat climate change.","https://trees.org/"],
             :org4 => ["Environmental Foundation for Africa"," They aim to use education, campaigns, and etc, to let others know of the bad impact we have in our enviroments if we don't take care of it and help.  ","http://www.efasl.org/site/"]
         }
@@ -122,7 +122,7 @@ def organizations2(topic)
             :org1 => ["Girls Not Brides", "A global organization committed to ending child marriage and enabling girls to fulfill their potential.","http://www.girlsnotbrides.org"],
             :org2 => ["La Niña Andina: The Andes Women’s Initiative", "Dive deep into the issues surrounding access to education and opportunities for women in Peru.","https://rusticpathways.com/programs/la-nina-andina-the-andes-womens-initiative/"],
             :org3 => ["Planned Parenthood", "An organization that helps women when it comes to their reproductive needs.", "https://www.plannedparenthood.org/"],
-            :org4 => ["Women for Women", "This organization supports refugee women and helps them be able to raise their families.", "http://www.womenforwomen.org/"],
+            :org4 => ["Women for Women", "This organization supports refugee women and helps raise their families by providing basic needs.", "http://www.womenforwomen.org/"],
             :org5 => ["Now","Your continued support as a NOW member is critical to the feminist fight for equality","http://now.org/" ]
         }
         
@@ -132,8 +132,8 @@ def organizations2(topic)
             :title => "Black Lives Matter",
             :main_desc => "The Black Lives Matter Movement is a peaceful movement where people demand equal rigths and opportunities for black people.",
             :org1 => ["The Give Black Foundation", "A charity that donates to black communities in need.", "https://www.giveblackfoundation.org/?utm_source=AdWords&utm_campaign=General&utm_medium=CPC"],
-            :org2 => ["Aspen Ideas", "An organization that deeper explains what the Black Lives Matter Movement is and gives opportunities for people to get  involve.", "https://www.aspenideas.org/session/civil-rights-movement-21st-century-black-lives-matter?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRt2FGL8kqoeW8IXvLEUa36Mxo5I89laNkUEMfGUo-zqRoChhTw_wcB"],
-            :org3 => ["Black Lives Matter", "An Organization that deeper expalins what the Black Lives Matter Movement is and gives opportunities if one will like to be involve.", "http://blacklivesmatter.com/about/"],
+            :org2 => ["Aspen Ideas", "An organization that deeper explains what the Black Lives Matter Movement is and what they stand for.", "https://www.aspenideas.org/session/civil-rights-movement-21st-century-black-lives-matter?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRt2FGL8kqoeW8IXvLEUa36Mxo5I89laNkUEMfGUo-zqRoChhTw_wcB"],
+            :org3 => ["Black Lives Matter", "An organization that deeper expalins what the Black Lives Matter Movement is and gives opportunities if one will like to be involve.", "http://blacklivesmatter.com/about/"],
             :org4 => ["The Movemnet for Black Lives", "A vision policy demands for black power, freedom, and justice", "https://policy.m4bl.org/"]
         }
         
@@ -142,8 +142,8 @@ def organizations2(topic)
             :image => "http://www.alamy.com/blog/wp-content/uploads/2015/02/B6JPY7-1024x680.jpg",
             :title => "Education",
             :main_desc => "Every student having an access to a proper education no matter what their status, race, income, ect.. is.",
-            :org1 => ["Modern Mindfulness", "This organizations trengthens foundational learning skills resulting in focused and relaxed students.", "https://www.modmind.org/?gclid=cjwkeajw4ijkbrdr6p752ccum3ksjac-eqrtil6awoq72tga4dhzlnoutjjic_5dmqyqt0hceakjoxocv9rw_wcb"],
-            :org2 => ["A Glimmer of Hope", "Girls in Ethiopia are given basic need they do not have. Especially a chance to obtain an education.","http://glimmer.org/"],
+            :org1 => ["Modern Mindfulness", "This organization strengthens foundational learning skills resulting in focused and relaxed students.", "https://www.modmind.org/?gclid=cjwkeajw4ijkbrdr6p752ccum3ksjac-eqrtil6awoq72tga4dhzlnoutjjic_5dmqyqt0hceakjoxocv9rw_wcb"],
+            :org2 => ["A Glimmer of Hope", "Girls in Ethiopia are given basic needs they do not have. Especially a chance to obtain an education.","http://glimmer.org/"],
             :org3 => ["Rumie", "A non-profit organization that makes access to free digital education possible for underserved communities worldwide.", "https://www.rumie.org/"],
             :org4 => ["United Nations Educational, Scientific and Cultural Organization", "This organization focuses on giving every child a chance to an education for a better future.", "http://www.unesco.org/new/en/right2education"]
         }
@@ -154,8 +154,8 @@ def organizations2(topic)
             :title => "Worker Rights",
             :main_desc => "Workers fight for better wages, resonable hourrs, and safer working conditons.",
             :org1 => ["United Students Against Sweatshops","An organiation where students advocate for worker rights", "http://usas.org/"],
-            :org2 => ["International Labor Rights Forum", "An international organization thta advocates for the rights of labor workers", "http://www.laborrights.org/"],
-            :org3 => ["Jobs with Justice", "An organiztion that advocates for the correct amount of wages in order ot have a healthy life style in society", "http://www.jwj.org/"],
+            :org2 => ["International Labor Rights Forum", "An international organization that advocates for the rights of labor workers", "http://www.laborrights.org/"],
+            :org3 => ["Jobs with Justice", "An organiztion that advocates for the correct amount of wages in order to have a healthy life style in society", "http://www.jwj.org/"],
             :org4 => ["Workplace Fairness", "An organization where people are imformed about what kind of rights they have in a job", "https://www.workplacefairness.org/"]
         }
     elsif topic == "children"
@@ -163,7 +163,7 @@ def organizations2(topic)
             :image => "https://ichef-1.bbci.co.uk/news/640/media/images/83608000/jpg/_83608567_de31.jpg",
             :title => "Children Rights",
             :main_desc => "Children being cared for correctly by their guardian(s) by having the basic needs of food, physical protection, education, health care, ect...",
-            :org1 => ["Save the Children", "Save the Children believes every child deserves a future. In the U.S. and around the world, we give children a healthy start in life, the opportunity to learn and protection from harm. We do whatever it takes for children – every day and in times of crisis – transforming their lives and the future we share.", "http://www.savethechildren.org/site/c.8rKLIXMGIpI4E/b.6115947/k.B143/Official_USA_Site.htm"],
+            :org1 => ["Save the Children", "Save the Children believes every child deserves a future. In the U.S. and around the world, they give children a healthy start in life, the opportunity to learn and protection from harm.", "http://www.savethechildren.org/site/c.8rKLIXMGIpI4E/b.6115947/k.B143/Official_USA_Site.htm"],
             :org2 => ["Sos Children's Villages", "This organization focuses on children haveing basic human rights as established in the Convention on the Rights of the Child.", "http://www.sos-usa.org/our-impact/childrens-rights?utm_source=dynamic&ecid=SEAG:Childrens_Rights:GoogleSearch:nn:20151202&gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRtk2EmReB6KDyV3eIBlHXXMpiuK4xxhR4FeAoNWH5R7hoC-H3w_wcB#sthash.YlKHAkJ1.dpuf"],
             :org3 => ["Children International", "This organization focuses on children living in poverty have access to life-changing benefits, like medical care, educational support, life skills and job-training before they graduate.", "https://www.children.org/?rs_id=2&gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRt_IlwSE0PvuvnIyfpPvDisGFq1RTZjFgirAdBWju16RoC-ivw_wcB"],
             :org4 => ["Cambodian Children's Fund", "Cambodian Children’s Fund transforms the country's most impoverished kids into tomorrow's leaders, by delivering education, family support and community development programs into the heart of Cambodia’s most impoverished communities.", "https://www.cambodianchildrensfund.org/about-us/?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRtIy9HE-gWVnAGC4k59tR47fh0fkpKQ8BJ-E_OOCnwqRoCRonw_wcB"]
@@ -174,10 +174,10 @@ def organizations2(topic)
             :image => "https://www-tc.pbs.org/independentlens/wp/wp-content/uploads/2011/10/lives-worth-living-sig.jpg",
             :title => "Disabilities Rights", 
             :main_desc => "People with disabilities should be helped by the system to obtain the same rights and opportunities as anyone else.",
-            :org1 => ["Autistic Self Advocacy Network", "Advocacy for people with autism.", "http://autisticadvocacy.org/"],
+            :org1 => ["Autistic Self Advocacy Network", "Advocacy for people with autism in education, health care, jobs, ect....", "http://autisticadvocacy.org/"],
             :org2 => ["Disability Rights Education & Defense Fund.", "Advocates for people with disabilities to obtain an education", "https://dredf.org/"],
-            :org3 => ["National Down Syndrome Society", "Advocates for pople with down syndrome", "http://www.ndss.org/"],
-            :org4 => ["National Association of the Deaf", "Advocates for people who are deaf", "https://www.nad.org/"]
+            :org3 => ["National Down Syndrome Society", "Advocates for pople with down syndrome in order to succeed in life.", "http://www.ndss.org/"],
+            :org4 => ["National Association of the Deaf", "Advocates for people who are deaf in order to acomplish what they desire in life.", "https://www.nad.org/"]
             }
     
     elsif topic == "latino"
@@ -185,10 +185,10 @@ def organizations2(topic)
             :image => "http://az616578.vo.msecnd.net/files/2016/05/27/6359990735978800451586896422_flags-hispanis-country.jpg",
             :title => "Hispanic/Latino Rights",
             :main_desc => "Advocacy for the Hispanic and Latino community towards discrimination, segregation, and obtaning an education.",
-            :org1 => ["Helps Latinos/Hispanics.", "League of United Latin American Citizens", "http://lulac.org/about/"],
-            :org2 => ["Justice for Latinos", "Latino Justice", "http://latinojustice.org/?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRtIa3Y0muA3OvRSKHg5nue-WdSRadlqpMPAgBgW2HkLxoCOPfw_wcB"],
+            :org1 => ["League of United Latin American Citizens", "Helps Latinos/Hispanics succeed in life.", "http://lulac.org/about/"],
+            :org2 => ["Justice for Latinos", "This organization helps Latinos get justice when it comes to social problems.", "http://latinojustice.org/?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRtIa3Y0muA3OvRSKHg5nue-WdSRadlqpMPAgBgW2HkLxoCOPfw_wcB"],
             :org3 => ["National Council of la Raza", "Advocates for Latinos to have the same rights as anyone else in order to pursue a healthy life-style.", "http://www.nclr.org/about-us/"],
-            :org4 => ["MALDEF", "This organization focuses on legal defenses and education for the Hispanic and Latino community", "http://www.maldef.org/about/index.html"]
+            :org4 => ["MALDEF", "This organization focuses on legal defenses and education for the Hispanic and Latino community.", "http://www.maldef.org/about/index.html"]
         }
     
     elsif topic == "lgbt"
@@ -198,8 +198,8 @@ def organizations2(topic)
             :main_desc => "The Lesbian, gay, bisexual, and transgender (LBGT) movement advocates for the full aceptance of people who identify as LGBT.",
             :org1 => ["ILGA","This organization helps campaing and imform about what the LGBT community is trying to achive", "http://ilga.org/" ],
             :org2 => ["Human and Civil Rights of America", "This organizaton focuses on stoping racial discrimination, fighting religious bigotry, prosecuteing hate crimes, ending unfair sex bias, defending democratic principles, and promoting equality, freedom, and justice for all.", "http://www.hcr.org/"],
-            :org3 => ["Outright Action International", "This organization pomotes support for the LGBT community by defending their rights.", "https://outrightinternational.org/"],
-            :org4 => ["PFLAG", "This organization helps children who identify as LGBT who have been bullied.", "https://www.pflag.org/"]
+            :org3 => ["Outright Action International", "This organization supports the LGBT community by defending their rights.", "https://outrightinternational.org/"],
+            :org4 => ["PFLAG", "This organization helps children who identify as LGBT and have been bullied.", "https://www.pflag.org/"]
         }
             
     elsif topic == "human_trafficking"
@@ -212,14 +212,14 @@ def organizations2(topic)
             :org3 => ["Maiti Nepal", "Helps Women from Nepal-India and Nepal-china from potential risk of being trafficked", "www.maitinepal.org/"],
             :org4 => ["Hope for Justice", "This organiation brings an end to modern slavery by rescuing victims, restoring lives, and reforming society.", "http://hopeforjustice.org/"]
         }
-        
+        s
     elsif topic == "domestic"
         domestic = {
             :image => "http://www.bkreader.com/wp-content/uploads/2015/10/Domestic_Abuse_t750x550-600x400.jpg",
             :title => "Domestic Violence",
-            :main_desc => "Domestic violence happens in a relationship (does not necessarily have to be in a daiting or marriage situation) where a person is hurt physically, emotionally, or sexually.",
-            :org1 => ["Joyful Heart Foundation", "This organization helps women acknowledge if they are in an abuse relationship in order move on", "http://www.joyfulheartfoundation.org/learn/domestic-violence/about-issue/know-signs?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRtZa6uSWamm1bbom8-MVooT_bkD0kOToxFs7yBl3iUtBoCsUnw_wcB"],
-            :org2 => ["National Coalition Against Domestic Violence", "This organization prevents domestic violence by promoting programs and eduacting women about domestic violence", "http://www.ncadv.org/"],
+            :main_desc => "Domestic violence happens in a relationship (does not necessarily have to be a daiting or marriage situation) where a person is hurt physically, emotionally, economically, or sexually.",
+            :org1 => ["Joyful Heart Foundation", "This organization helps women acknowledge that they are in an abuse relationship and helps them move on.", "http://www.joyfulheartfoundation.org/learn/domestic-violence/about-issue/know-signs?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRtZa6uSWamm1bbom8-MVooT_bkD0kOToxFs7yBl3iUtBoCsUnw_wcB"],
+            :org2 => ["National Coalition Against Domestic Violence", "This organization prevents domestic violence by promoting programs that educate women about domestic violence", "http://www.ncadv.org/"],
             :org3 => ["Love is Respect", "This organization helps daiting relationships who are going or went through domestic violence", "http://www.loveisrespect.org/"],
             :org4 => ["Voice of Men", "This organization educates men about domestic violence towards women.", "http://www.voicesofmen.org/"]
         }
@@ -228,11 +228,11 @@ def organizations2(topic)
         refugees_and_immigrants = {
             :image => "https://counterjihad.com/wp-content/uploads/2016/12/Syrian-refugees-in-Germany-AP-PhotoRonald-Zak-640x480.jpg",
             :title => "Refugees and Immigrants",
-            :main_desc => "A refugee or immigrant is forced to leave their country (usually) because of war, persecution, or natural disasters. They should have the chance to live in a foreing contry where it is safe.",
+            :main_desc => "A refugee or immigrant is someone who is forced to leave their country usually because of war, persecution, or natural disasters. They should have the chance to live in a foreign contry where it is safe for them to live.",
             :org1 => ["Mariposas sin Fronteras","This organization helps immigrants obtain a better future.", "https://mariposassinfronteras.org/"],
-            :org2 => ["SARA", "An organization is Austin, Texas who help refugees.", "http://www.saraorg.org/"],
-            :org3 => ["Northwest Immigration Rigths Project", "This organization fights for justice for immigants no matter what their income or where the person was born.", "https://www.nwirp.org/"],
-            :org4 => ["HIAS", "This oranizations help refugees build a new life-style in a safer place.","https://www.hias.org/hias-refugee?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRt1mSDWLo4lgN3cHCI8S5ZdqQ9sA3Jh-DtM9KB9RJ6_RoC3X3w_wcB"]
+            :org2 => ["SARA", "An organization in Austin, Texas who help refugees.", "http://www.saraorg.org/"],
+            :org3 => ["Northwest Immigration Rigths Project", "This organization fights for justice for immigrants no matter what their income is or where the person was born.", "https://www.nwirp.org/"],
+            :org4 => ["HIAS", "This organizations helps refugees build a new life-style in a safer place.","https://www.hias.org/hias-refugee?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRt1mSDWLo4lgN3cHCI8S5ZdqQ9sA3Jh-DtM9KB9RJ6_RoC3X3w_wcB"]
         }
         
     
