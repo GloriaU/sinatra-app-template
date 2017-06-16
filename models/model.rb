@@ -132,7 +132,7 @@ def organizations2(topic)
             :title => "Black Lives Matter",
             :main_desc => "The Black Lives Matter Movement is a peaceful movement where people demand equal rigths and opportunities for black people.",
             :org1 => ["The Give Black Foundation", "A charity that donates to black communities in need.", "https://www.giveblackfoundation.org/?utm_source=AdWords&utm_campaign=General&utm_medium=CPC"],
-            :org2 => ["Aspen Ideas", "An organization that deeper explains what the Black Lives Matter Movement is and gives", "https://www.aspenideas.org/session/civil-rights-movement-21st-century-black-lives-matter?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRt2FGL8kqoeW8IXvLEUa36Mxo5I89laNkUEMfGUo-zqRoChhTw_wcB"],
+            :org2 => ["Aspen Ideas", "An organization that deeper explains what the Black Lives Matter Movement is and gives opportunities for people to get  involve.", "https://www.aspenideas.org/session/civil-rights-movement-21st-century-black-lives-matter?gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRt2FGL8kqoeW8IXvLEUa36Mxo5I89laNkUEMfGUo-zqRoChhTw_wcB"],
             :org3 => ["Black Lives Matter", "An Organization that deeper expalins what the Black Lives Matter Movement is and gives opportunities if one will like to be involve.", "http://blacklivesmatter.com/about/"],
             :org4 => ["The Movemnet for Black Lives", "A vision policy demands for black power, freedom, and justice", "https://policy.m4bl.org/"]
         }
